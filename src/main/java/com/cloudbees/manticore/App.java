@@ -1,8 +1,9 @@
 package com.cloudbees.manticore;
 
-/**
- * Hello world rpogram for maven and java welcome all!
- *
+master
+  Hello world rpogram for maven and java and app prog!
+
+
  */
 public class App 
 {
