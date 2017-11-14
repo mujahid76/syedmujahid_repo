@@ -1,7 +1,7 @@
 package com.cloudbees.manticore;
 
 /**
- * Hello world rpogram for maven and java!
+ * Hello world rpogram for maven and java and app prog!
  *
  */
 public class App 
